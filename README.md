@@ -30,9 +30,11 @@ The solution successfully located the global peak while providing insight into t
 
 PeakFinder-SA/
 │
-├── submission.py           # Implements Model class with SA
-├── visualize_sa.py         # Visualizes SA search paths
-└── README.md               # This file
+├── Simulated_Annealing.ipynb
+|       └── data generator 
+|       └── submission.py           # Implements Model class with SA
+|       └── visualize_sa.py         # Visualizes SA search paths
+└── README.md               
 
 ````
 
